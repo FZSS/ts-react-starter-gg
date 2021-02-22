@@ -1,0 +1,29 @@
+.repo-list {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.repo-info-card {
+  width: 240px;
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+}
+
+.repo-info-card-cell {
+  display: flex;
+}
+
+.repo-info-card H5 {
+  min-width: 60px;
+}
+
+.repo-info-card-detail {
+  margin-left: 10px;
+  overflow: scroll;
+}
+
+.repos-view {
+  padding: 0 20px 0 20px;
+}
